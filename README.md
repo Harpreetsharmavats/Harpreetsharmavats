@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Android Development<br>I'm currently learning Jetpack Compose
+I'm currently working on Android Development<br>I'm currently working on Jetpack Compose
 
 
 ## 🌐 Socials:
